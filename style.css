@@ -1,0 +1,100 @@
+<style>
+    .geeks {
+        width: 300px;
+        height: 300px;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+      
+    .geeks img {
+        width: 100%;
+        transition: 0.5s all ease-in-out;
+    }
+      
+    .geeks:hover img {
+        transform: scale(1.2);
+        z-index: 100;
+        position: relative;
+    }
+.img2{
+display: flex;
+justify-content: center;}
+.imagine-mare{
+    position: relative;
+}
+
+.transparent-button-scrappy {
+    position: absolute;
+    top: 75%;
+    left: 7%;
+    width: 10%;
+    height: 30%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    background-color: #000000; /* change to any color you want */
+    color: #ffffff; /* change to any color you want */
+}
+.transparent-button-velma {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    width: 18%;
+    height: 65%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    background-color: #000000; /* change to any color you want */
+    color: #ffffff; /* change to any color you want */
+}
+.transparent-button-scooby {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    width: 20%;
+    height: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    background-color: #000000; /* change to any color you want */
+    color: #ffffff; /* change to any color you want */
+}
+.transparent-button-shaggy {
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    width: 15%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    background-color: #000000; /* change to any color you want */
+    color: #ffffff; /* change to any color you want */
+}
+.transparent-button-daphne {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    width: 15%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    background-color: #000000; /* change to any color you want */
+    color: #ffffff; /* change to any color you want */
+}
+.transparent-button-fred {
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    width: 15%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    background-color: #000000; /* change to any color you want */
+    color: #ffffff; /* change to any color you want */
+}
+
+</style>
+
